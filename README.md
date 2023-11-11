@@ -1,11 +1,21 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Dependencies installed
+## Version
+
+- Nextjs 14.02
+- Material UI 5.14.17
+
+## Installed dependencies
 
 ```
-npm install @mui/material @emotion/react @emotion/styled @emotion/cache @mui/icons-material @mui/styled-engine-sc styled-components
-
-npm install @fontsource/roboto
+npm install @mui/material \
+            @emotion/react \
+            @emotion/styled \
+            @emotion/cache \
+            @mui/icons-material \
+            @mui/styled-engine-sc \
+            styled-components \
+            @fontsource/roboto
 ```
 
 
